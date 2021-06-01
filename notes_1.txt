@@ -1,0 +1,21 @@
+C, C++
+Java
+
+Math
+- Python
+- R Programming
+- MATLAB
+
+R Programming
+- Statistics
+- Machine Learning
+
+Download and install R Programming
+Download and install R Studio - IDE 
+- Integrated Development Environment
+
+Numeric - Set of all real numbers
+Integer - Set of all integers
+Complex - Set of complex numbers
+Character - "a", "hello"
+Logical - TRUE and FALSE
